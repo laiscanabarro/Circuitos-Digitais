@@ -21,4 +21,9 @@ Trabalhos da disciplina de Circuitos Digitais
 [Lab 6 - Conversor BCD-7 segmentos](lab6/Lab06%20-%20Su%CC%81mula%20-%20BCD%20-%207%20segmentos.pdf)
 &nbsp;
 
+[Proj 1 - ULA do NEANDER](Proj1/Neander%20-%20Organizac%CC%A7a%CC%83o%20-%20Part.%201.pdf)
+&nbsp;
+
+[Proj 2 - Temporizador do NEANDER](Proj2/Proj02%20-%20Su%CC%81mula%20-%20Temporizador%20NEANDER.pdf)
+&nbsp;
   
