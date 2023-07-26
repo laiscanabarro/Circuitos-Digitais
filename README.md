@@ -26,4 +26,6 @@ Trabalhos da disciplina de Circuitos Digitais
 
 [Proj 2 - Temporizador do NEANDER](Proj2/Proj02%20-%20Su%CC%81mula%20-%20Temporizador%20NEANDER.pdf)
 &nbsp;
-  
+
+[Proj 3 - Neander Completo](Proj3/Proj03%20-%20Su%CC%81mula%20-%20Neander%20Completo%20com%20ROM.pdf)
+
