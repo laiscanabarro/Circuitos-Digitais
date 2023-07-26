@@ -1,6 +1,6 @@
 # Circuitos Digitais
 
-Trabalhos da disciplinas de Circuitos Digitais
+Trabalhos da disciplina de Circuitos Digitais
 &nbsp;
 
 [Lab 1 - Somador RCA](lab1/INF01058%20-%20Lab01%20-%20Su%CC%81mula.pdf)
