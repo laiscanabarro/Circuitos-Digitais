@@ -15,7 +15,7 @@ Trabalhos da disciplina de Circuitos Digitais
 [Lab 4 - Divisor de Frequência](lab4/Lab04%20-%20Su%CC%81mula%20-%20Divisor%20de%20freque%CC%82ncia.pdf)
 &nbsp;
 
-[Lab 5 - Contador genérico]()
+[Lab 5 - Contador genérico](lab5/Lab05%20-%20Su%CC%81mula%20-%20Registrador%20contador%20up_down.pdf)
 &nbsp;
 
 [Lab 6 - Conversor BCD-7 segmentos](lab6/Lab06%20-%20Su%CC%81mula%20-%20BCD%20-%207%20segmentos.pdf)
